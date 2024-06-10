@@ -1,0 +1,19 @@
+{
+  "name": "skibidi-api",
+  "version": "1.0.0",
+  "description": "The API that's going to revolutionize the world",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salagata/skibidi-api.git"
+  },
+  "author": "salagata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salagata/skibidi-api/issues"
+  },
+  "homepage": "https://github.com/salagata/skibidi-api#readme"
+}
